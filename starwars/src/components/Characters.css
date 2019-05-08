@@ -1,0 +1,43 @@
+.character-box{
+    width:40%;
+    margin: 0 auto;
+}
+.character-info {
+    margin: 0 auto;
+    width:100%;
+    background-color: rgb(34, 166, 206);
+    border: 3px dashed black;
+}
+
+.character {
+    font-size: 3rem;
+
+}
+
+.info {
+    font-size: 2rem;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
+
+.brown {
+    color: brown;
+}
